@@ -8,3 +8,4 @@ TO VIEW:
 3. Resize and reload the page for the mobile view! (only one map is loaded per page-request for browsing efficiency)
 
 PROCESS DOCUMENTATION COMING SOON.
+(Implemented using Mapbox GL JS API)
