@@ -1,5 +1,5 @@
-# Snap-Raise-Summer-Intern-Project-2018
-Snap Raise Summer Internship Project 2018; re-imagined the homepage map interface to show information about sales representatives across the U.S.
+# Snap-Raise-Summer-Intern-Project-2017
+Snap Raise Summer Internship Project 2017; re-imagined the homepage map interface to show information about sales representatives across the U.S.
 
 TO VIEW:
 
